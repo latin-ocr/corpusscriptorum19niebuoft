@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum19niebuoft_0467.png"; bbox 0 0 1806 3190; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 1832 2 3190">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 1832 2 3190">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 1832 2 3190; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 1832 2 3190; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 82 925 1523 1185">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 82 925 1523 1185">
+     <span class='ocr_line' id='line_1_2' title="bbox 82 925 1523 1011; baseline -0.003 -1"><span class='ocrx_word' id='word_1_2' title='bbox 82 926 789 1011; x_wconf 86' lang='lat' dir='ltr'><strong>IOANNIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 866 925 1523 1010; x_wconf 82' lang='lat' dir='ltr'><strong>OANANI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 252 1109 1349 1185; baseline -0.005 0"><span class='ocrx_word' id='word_1_4' title='bbox 252 1123 377 1185; x_wconf 85' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 427 1109 1349 1185; x_wconf 78' lang='lat' dir='ltr'><strong>CONSTANTINOPOLI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 436 1283 1174 1332">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 436 1283 1174 1332">
+     <span class='ocr_line' id='line_1_4' title="bbox 436 1283 1174 1332; baseline -0.004 -1"><span class='ocrx_word' id='word_1_6' title='bbox 436 1286 608 1332; x_wconf 86' lang='lat' dir='ltr'><strong>ANNO</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 644 1283 766 1331; x_wconf 78' lang='lat'><strong>1422</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 810 1284 1174 1330; x_wconf 86' lang='lat' dir='ltr'><strong>OPPUGNATA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 660 1422 940 1463">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 660 1422 940 1463">
+     <span class='ocr_line' id='line_1_5' title="bbox 660 1422 940 1463; baseline -0.004 -1"><span class='ocrx_word' id='word_1_9' title='bbox 660 1422 940 1463; x_wconf 77' lang='lat' dir='ltr'><strong>NARRATIO.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
